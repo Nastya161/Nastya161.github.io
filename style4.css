@@ -9,43 +9,44 @@ month{display:block;
 	font-size:25px;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	line-height: 60px;
-	background-color:#BCD2EE;
-	border:3px solid #000;
+	background-color:#6d4848;
+	border:3px solid #fff;
+	color:#efe0d0;
 }
 MTable{display:block;
 	width:950px;
 	height:350px;
-	background-color:#BCD2EE;
+	background-color:#CD9B9B;
 	margin:20px auto;
-	border:3px solid #000;
+	border:3px solid #D22A2A;
 }
 TuTable{display:block;
 	width:950px;
 	height:350px;
-	background-color:#BCD2EE;
+	background-color:#CDCDB4;
 	margin:20px auto;
-	border:3px solid #000;
+	border:3px solid #6E8B3D;
 }
 WTable{display:block;
 	width:950px;
 	height:350px;
-	background-color:#BCD2EE;
+	background-color:#EEA9B8;
 	margin:20px auto;
-	border:3px solid #000;
+	border:3px solid #B03060;
 }
 TTable{display:block;
 	width:950px;
 	height:350px;
-	background-color:#BCD2EE;
+	background-color:#8B668B;
 	margin:20px auto;
-	border:3px solid #000;
+	border:3px solid #8B7D7B;
 	}
 FTable{display:block;
 	width:950px;
 	height:350px;
-	background-color:#BCD2EE;
+	background-color:#CDB5CD;
 	margin:20px auto;
-	border:3px solid #000;
+	border:3px solid #282328;
 	}
 Day{display:block;
 	text-align:center;
@@ -94,7 +95,8 @@ Nttn{display:block;
 	margin-left:30px;
 	text-align:center;
 }
-name–acient{margin:6px;
+name–†acient{display:block;
+	margin:6px;
 }
 time{display:block;
 	margin:4px;
