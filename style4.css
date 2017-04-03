@@ -1,0 +1,107 @@
+Table{
+	background-color:#5b3538;
+}
+month{display:block;
+	width:300px;
+	height:60px;
+	text-align:center;
+	margin:10px auto;
+	font-size:25px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	line-height: 60px;
+	background-color:#BCD2EE;
+	border:3px solid #000;
+}
+MTable{display:block;
+	width:950px;
+	height:350px;
+	background-color:#BCD2EE;
+	margin:20px auto;
+	border:3px solid #000;
+}
+TuTable{display:block;
+	width:950px;
+	height:350px;
+	background-color:#BCD2EE;
+	margin:20px auto;
+	border:3px solid #000;
+}
+WTable{display:block;
+	width:950px;
+	height:350px;
+	background-color:#BCD2EE;
+	margin:20px auto;
+	border:3px solid #000;
+}
+TTable{display:block;
+	width:950px;
+	height:350px;
+	background-color:#BCD2EE;
+	margin:20px auto;
+	border:3px solid #000;
+	}
+FTable{display:block;
+	width:950px;
+	height:350px;
+	background-color:#BCD2EE;
+	margin:20px auto;
+	border:3px solid #000;
+	}
+Day{display:block;
+	text-align:center;
+	font-size:22px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	padding-top:30px;
+}
+profession{display:block;
+	text-align:center;
+	font-size:22px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	margin-top:17px;
+}
+cardiologist{display:block;
+	text-align:center;
+	font-size:22px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	margin-top:17px;
+}
+stomatolog{display:block;
+	text-align:center;
+	font-size:22px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	margin-top:17px;
+	}
+oculist{display:block;
+	text-align:center;
+	font-size:22px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	margin-top:17px;
+}
+neuropatologist{display:block;
+	text-align:center;
+	font-size:22px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	margin-top:17px;
+}
+Nttn{display:block;
+	width:200px;
+	height:100px;
+	border-top:2px solid #D22A2A;
+	margin-top:50px;
+	float:left;
+	font-size:20px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	margin-left:30px;
+	text-align:center;
+}
+name–acient{margin:6px;
+}
+time{display:block;
+	margin:4px;
+}
+type{display:block;
+	margin:4px;
+}
+NumRoom{display:block;
+	margin:4px;
+}

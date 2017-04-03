@@ -1,0 +1,171 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<Table>
+<month>Август, 2017</month>
+<DTable>
+<Day>Понедельник, 01.08.17 </Day>
+<profession> Кардиолог</profession>
+<cardiologist>Листопад Антонина Сергеевна</cardiologist>
+<Nttn>
+<nameРacient> Линд Елена</nameРacient>
+<time> 09:00 - 09:50 </time>
+<type>консультация </type>
+<NumRoom>520</NumRoom>
+</Nttn>
+
+<Nttn>
+<nameРacient> Буркаль Кристина</nameРacient>
+<time> 10:00 - 11:00 </time>
+<type> назначение лечения </type>
+<NumRoom>520</NumRoom>
+</Nttn>
+
+<Nttn>
+<nameРacient> Федеров Никита</nameРacient>
+<time> 12:00 - 13:00 </time>
+<type> назначение лечения </type>
+<NumRoom>520</NumRoom>
+</Nttn>
+
+<Nttn>
+<nameРacient> Захарченко Кира</nameРacient>
+<time> 13:00 - 14:00 </time>
+<type> консультация </type>
+<NumRoom>520</NumRoom>
+</Nttn>
+
+</DTable>
+
+<DTable>
+<Day>Вторник, 02.08.17</Day>
+<profession> Стоматолог</profession>
+<stomatolog>Струц Елена Андреевна </stomatolog>
+<Nttn>
+<nameРacient> Шапарь Ульяна</nameРacient>
+<time> 11:00 - 11:30 </time>
+<type> осмотр </type>
+<NumRoom>207</NumRoom>
+</Nttn>
+
+<Nttn>
+<nameРacient> Фартук Валера</nameРacient>
+<time> 11:45 - 13:20 </time>
+<type> лечение </type>
+<NumRoom>207</NumRoom>
+</Nttn>
+
+<Nttn>
+<nameРacient> Гуфчанский Александр</nameРacient>
+<time> 13:00 - 15:00 </time>
+<type> лечение </type>
+<NumRoom>207</NumRoom>
+</Nttn>
+
+<Nttn>
+<nameРacient> Гончар Елена</nameРacient>
+<time> 15:10 - 17:40 </time>
+<type> брекеты </type>
+<NumRoom>207</NumRoom>
+</Nttn>
+</DTable>
+
+<DTable>
+<Day>Среда, 03.08.17</Day>
+<profession> Кардиолог</profession>
+<cardiologist>Листопад Антонина Сергеевна</cardiologist>
+<Nttn>
+<nameРacient>Коваленко Виктория</nameРacient>
+<time> 08:00 - 09:50 </time>
+<type>лечение </type>
+<NumRoom>207</NumRoom>
+</Nttn>
+
+<Nttn>
+<nameРacient>Пистряк Эдуард</nameРacient>
+<time> 10:00 - 12:00 </time>
+<type>лечение</type>
+<NumRoom>207</NumRoom>
+</Nttn>
+
+<Nttn>
+<nameРacient>Ичанская Каролина</nameРacient>
+<time> 14:00 - 15:00 </time>
+<type> консультация </type>
+<NumRoom>520</NumRoom>
+</Nttn>
+
+<Nttn>
+<nameРacient> Стовпюк Максим</nameРacient>
+<time> 15:45 - 16:20 </time>
+<type> консультация </type>
+<NumRoom>520</NumRoom>
+</Nttn>
+</DTable>
+
+<DTable>
+<Day>Четверг 04.08.17</Day>
+<profession> Окулист</profession>
+<oculist>Непийпиво Ирина Викторовна</oculist>
+<Nttn>
+<nameРacient>Павловская Ольга </nameРacient>
+<time> 12:00 - 12:30 </time>
+<type> консультация </type>
+<NumRoom>09</NumRoom>
+</Nttn>
+
+<Nttn>
+
+<nameРacient> Пивнев Денис</nameРacient>
+<time> 12:45 - 13:20 </time>
+<type>  консультация </type>
+<NumRoom>09</NumRoom>
+</Nttn>
+
+<Nttn>
+
+<nameРacient> Купка Роман</nameРacient>
+<time> 13:20 - 14:00 </time>
+<type>  консультация </type>
+<NumRoom>09</NumRoom>
+</Nttn>
+
+<Nttn>
+<nameРacient> Бабенко Виктория</nameРacient>
+<time> 15:00 - 15:50 </time>
+<type>  консультация </type>
+<NumRoom>09</NumRoom>
+</Nttn>
+</DTable>
+
+<DTable>
+<Day>Пятница, 05.08.17</Day>
+<profession> Нервопотолог</profession>
+<neuropatologist>Вусик Андрей Тимофеевич</neuropatologist>
+<Nttn>
+<nameРacient>Перекупка Алина</nameРacient>
+<time> 12:00 - 12:30 </time>
+<type> консультация </type>
+<NumRoom>604</NumRoom>
+</Nttn>
+
+<Nttn>
+<nameРacient> Соколенко Элла</nameРacient>
+<time> 13:20 - 14:00 </time>
+<type>  консультация </type>
+<NumRoom>604</NumRoom>
+</Nttn>
+
+<Nttn>
+<nameРacient>Белина Андрей</nameРacient>
+<time> 14:10 - 14:55</time>
+<type>  консультация </type>
+<NumRoom>604</NumRoom>
+</Nttn>
+
+<Nttn>
+<nameРacient> Трутень Артём</nameРacient>
+<time> 15:00 - 15:50 </time>
+<type>  консультация </type>
+<NumRoom>604</NumRoom>
+</Nttn>
+</DTable>
+</Table>
