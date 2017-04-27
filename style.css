@@ -37,8 +37,8 @@ margin-top: 80px;
 width: 300px;
 }
 .fun {
-background-color: rgba(0, 0, 0, 0.9);
-color: #27db8d;
+background-color: #5e0808;
+color: #2fc483;
 display: block;
 font-size: 25px;
 font-weight: bold;
@@ -59,9 +59,6 @@ color: #fff;
 font-size: 19px;
 margin-top: 110px;
 text-align: center;
-}
-.fun:hover {
-background-color: #8e0c0c;
 }
 #content {
 color: #d4f6f7;
